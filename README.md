@@ -5,7 +5,7 @@ Welcome to the MyDEV Wallet! This is the first public release of the extension. 
 ## Installation Instructions
 
 ### Step 1: Download and Extract
-1. Download the MyDEV Wallet file from the release section.
+1. Download the MyDEV Wallet file zip.
 2. Unzip or extract the downloaded file to a location of your choice.
 3. Locate the `build` folder within the extracted contents.
 
