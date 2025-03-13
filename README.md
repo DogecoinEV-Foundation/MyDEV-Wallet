@@ -16,8 +16,13 @@ Welcome to the MyDEV Wallet! This is the first public release of the extension. 
 4. Navigate to and select the `build` folder from the extracted files.
 5. Chrome will load the extension immediately, and you'll see MyDEV Wallet listed under your installed extensions.
 
+## Version Information
+- **Version 1**: 
+  - You can send and receive DEV.
+  - NFT and token support will be added soon!
+
 ## Notes
 - This is the first public release, so expect potential bugs or issues.
-- Please report any problems via the [Issues](https://github.com/[your-username]/[your-repo]/issues) tab on this repository.
+- Please report any problems via this repository.
 
 Happy testing!
